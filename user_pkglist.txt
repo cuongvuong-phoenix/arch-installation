@@ -34,6 +34,7 @@ ttf-roboto-mono
 vivaldi
 
 ## 1.2 - File sharing
+samba # (Need further configurations: https://wiki.archlinux.org/title/Samba#Installation)
 qbittorrent
 # xdman (AUR)
 
