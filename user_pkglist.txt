@@ -12,6 +12,8 @@ mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB
 postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
 # cassandra (AUR)
 # mongodb-bin (AUR)
+docker # (Need further configurations: https://wiki.archlinux.org/title/Docker#Installation)
+docker-compose
 
 ## 0.2 - Development Environment
 python-pipenv
