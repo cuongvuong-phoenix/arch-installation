@@ -17,7 +17,7 @@ docker-compose
 
 ## 0.2 - Development Environment
 python-pipenv
-# visual-studio-code-bin (AUR)
+# vscodium-bin (AUR)
 dbeaver
 virtualbox-host-modules-arch
 virtualbox
@@ -87,7 +87,7 @@ ibus
 # ibus-bamboo
 
 ## 3.4 - Package Manager
-# pamac-all (AUR)
+# pamac-aur (AUR)
 
 ## 3.5 - System
 os-prober # (Need further configurations: https://wiki.archlinux.org/title/GRUB#Detecting_other_operating_systems)
