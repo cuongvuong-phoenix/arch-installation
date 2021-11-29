@@ -27,6 +27,8 @@ virtualbox
 ttf-lato
 ttf-roboto
 ttf-roboto-mono
+ttf-jetbrains-mono
+# nerd-fonts-jetbrains-mono (AUR)
 # ttf-ms-fonts (AUR)
 # ttf-mac-fonts (AUR)
 
