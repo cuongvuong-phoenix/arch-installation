@@ -64,7 +64,7 @@ flameshot
 # pipewire-jack (Install manually)
 audacity
 clementine
-# spotify (AUR)
+# spotify (AUR - Need configure before installing: https://aur.archlinux.org/packages/spotify/)
 
 ## 2.3 - Video
 vlc

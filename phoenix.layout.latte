@@ -33,7 +33,7 @@ PreloadWeight=0
 [Containments][1][Applets][2][Configuration][General]
 groupTasksByDefault=false
 isInLatteDock=true
-launchers59=applications:io.dbeaver.DBeaver.desktop,applications:postman.desktop,applications:visual-studio-code.desktop,applications:Alacritty.desktop,file:///latte-separator1.desktop,applications:org.inkscape.Inkscape.desktop,applications:gimp.desktop,applications:org.kde.okular.desktop,applications:org.kde.kate.desktop,file:///latte-separator3.desktop,applications:org.kde.dolphin.desktop,applications:brave-browser.desktop,applications:rambox.desktop,applications:telegramdesktop.desktop,applications:discord.desktop,applications:slack.desktop,file:///latte-separator2.desktop,applications:ticktick.desktop,applications:spotify_spotify.desktop,applications:vlc.desktop,applications:org.manjaro.pamac.manager.desktop,applications:systemsettings.desktop
+launchers59=applications:io.dbeaver.DBeaver.desktop,applications:postman.desktop,applications:codium.desktop,applications:Alacritty.desktop,file:///latte-separator1.desktop,applications:org.inkscape.Inkscape.desktop,applications:gimp.desktop,applications:org.kde.okular.desktop,applications:org.kde.kate.desktop,file:///latte-separator3.desktop,applications:org.kde.dolphin.desktop,applications:brave-browser.desktop,applications:rambox.desktop,applications:telegramdesktop.desktop,applications:discord.desktop,applications:slack.desktop,file:///latte-separator2.desktop,applications:ticktick.desktop,applications:vlc.desktop,applications:spotify.desktop,applications:org.manjaro.pamac.manager.desktop,applications:systemsettings.desktop
 showOnlyCurrentDesktop=true
 showOnlyCurrentScreen=true
 taskScrollAction=ScrollNone
@@ -102,7 +102,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][25][Applets][26][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][25][Applets][26][Configuration][ConfigDialog]
 DialogHeight=540
@@ -119,7 +119,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][25][Applets][29][Configuration]
-PreloadWeight=100
+PreloadWeight=9
 SystrayContainmentId=30
 
 [Containments][25][Applets][43]
@@ -127,7 +127,7 @@ immutability=1
 plugin=org.kde.plasma.eventcalendar
 
 [Containments][25][Applets][43][Configuration]
-PreloadWeight=30
+PreloadWeight=14
 
 [Containments][25][Applets][43][Configuration][ConfigDialog]
 DialogHeight=540
@@ -162,21 +162,21 @@ plugin=org.kde.plasma.colorpicker
 PreloadWeight=0
 
 [Containments][25][Applets][49][Configuration][General]
-history=#f5f5f5,#ababab
+history=#333333,#2e2e2e,#f5f5f5,#ababab
 
 [Containments][25][Applets][50]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][25][Applets][50][Configuration]
-PreloadWeight=0
+PreloadWeight=92
 
 [Containments][25][Applets][51]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][25][Applets][51][Configuration]
-PreloadWeight=25
+PreloadWeight=1
 
 [Containments][25][Applets][51][Configuration][ConfigDialog]
 DialogHeight=540
@@ -187,14 +187,14 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][25][Applets][52][Configuration]
-PreloadWeight=45
+PreloadWeight=0
 
 [Containments][25][Applets][53]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][25][Applets][53][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][25][ConfigDialog]
 DialogHeight=1254
@@ -206,7 +206,7 @@ PreloadWeight=0
 [Containments][25][General]
 alignment=10
 alignmentUpgraded=true
-appletOrder=26;47;43;49;29;53;51;50;52
+appletOrder=26;47;43;29;53;51;50;52
 appletShadowsEnabled=false
 autoDecreaseIconSize=false
 autoSizeEnabled=false
@@ -262,27 +262,13 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][30][Applets][34][Configuration]
-PreloadWeight=100
+PreloadWeight=0
 
 [Containments][30][Applets][35]
 immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][30][Applets][35][Configuration]
-PreloadWeight=0
-
-[Containments][30][Applets][36]
-immutability=1
-plugin=org.kde.plasma.nightcolorcontrol
-
-[Containments][30][Applets][36][Configuration]
-PreloadWeight=0
-
-[Containments][30][Applets][37]
-immutability=1
-plugin=org.kde.plasma.keyboardindicator
-
-[Containments][30][Applets][37][Configuration]
 PreloadWeight=0
 
 [Containments][30][Applets][46]
@@ -299,14 +285,35 @@ plugin=org.kde.plasma.keyboardlayout
 [Containments][30][Applets][54][Configuration]
 PreloadWeight=0
 
+[Containments][30][Applets][55]
+immutability=1
+plugin=org.kde.plasma.volume
+
+[Containments][30][Applets][55][Configuration]
+PreloadWeight=0
+
+[Containments][30][Applets][56]
+immutability=1
+plugin=org.kde.plasma.manage-inputmethod
+
+[Containments][30][Applets][56][Configuration]
+PreloadWeight=0
+
+[Containments][30][Applets][57]
+immutability=1
+plugin=org.kde.plasma.printmanager
+
+[Containments][30][Applets][57][Configuration]
+PreloadWeight=0
+
 [Containments][30][ConfigDialog]
 DialogHeight=662
 DialogWidth=720
 
 [Containments][30][General]
-extraItems=org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator,org.kde.kscreen,org.kde.plasma.devicenotifier
+extraItems=org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager
 hiddenItems=Package Manager
-knownItems=org.kde.plasma.bluetooth,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator
+knownItems=org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager
 
 [LayoutSettings]
 activities=
@@ -320,5 +327,6 @@ lastUsedActivity=
 launchers=
 popUpMargin=-1
 preferredForShortcutsTouched=false
+schemeFile=
 showInMenu=true
 version=2
