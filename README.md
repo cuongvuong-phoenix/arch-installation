@@ -16,4 +16,4 @@
   - Install required widgets:
     - [**_Event Calendar_**](https://store.kde.org/p/998901).
     - [**_Inline Battery_**](https://store.kde.org/p/1402942).
-  - Apply layout by using [`bimbal.layout.latte`](./bimbal.layout.latte).
+  - Apply layout by using [`bimbal.layout.latte`](./phoenix.layout.latte).
