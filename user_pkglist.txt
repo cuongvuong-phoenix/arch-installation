@@ -91,7 +91,11 @@ ibus
 ## 3.4 - Package Manager
 # pamac-aur (AUR)
 
-## 3.5 - System
+## 3.5 - Disks
+gparted
+kdf
+
+## 3.6 - System
 os-prober # (Need further configurations: https://wiki.archlinux.org/title/GRUB#Detecting_other_operating_systems)
 htop
 # mkinitcpio-numlock # (OPTIONAL - AUR - Need further configurations: https://wiki.archlinux.org/title/Activating_numlock_on_bootup#Early_bootup_(mkinitcpio))
@@ -119,8 +123,9 @@ clamtk
 ## 6.1 - Organization
 # ticktick-nativefier (AUR)
 
-## 6.2 - Desktop environments
-# lightly-qt (AUR)
-latte-dock
+## 6.2 - Desktop environments (KDE)
+kdeplasma-addons
 khotkeys
 kruler
+# lightly-qt (AUR)
+latte-dock

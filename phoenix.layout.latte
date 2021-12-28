@@ -102,7 +102,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][25][Applets][26][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 
 [Containments][25][Applets][26][Configuration][ConfigDialog]
 DialogHeight=540
@@ -119,7 +119,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][25][Applets][29][Configuration]
-PreloadWeight=9
+PreloadWeight=40
 SystrayContainmentId=30
 
 [Containments][25][Applets][43]
@@ -127,7 +127,7 @@ immutability=1
 plugin=org.kde.plasma.eventcalendar
 
 [Containments][25][Applets][43][Configuration]
-PreloadWeight=14
+PreloadWeight=0
 
 [Containments][25][Applets][43][Configuration][ConfigDialog]
 DialogHeight=540
@@ -169,14 +169,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][25][Applets][50][Configuration]
-PreloadWeight=92
+PreloadWeight=60
 
 [Containments][25][Applets][51]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][25][Applets][51][Configuration]
-PreloadWeight=1
+PreloadWeight=0
 
 [Containments][25][Applets][51][Configuration][ConfigDialog]
 DialogHeight=540
@@ -187,7 +187,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][25][Applets][52][Configuration]
-PreloadWeight=0
+PreloadWeight=27
 
 [Containments][25][Applets][53]
 immutability=1
@@ -195,6 +195,10 @@ plugin=org.kde.plasma.notifications
 
 [Containments][25][Applets][53][Configuration]
 PreloadWeight=0
+
+[Containments][25][Applets][58]
+immutability=1
+plugin=org.kde.plasma.colorpicker
 
 [Containments][25][ConfigDialog]
 DialogHeight=1254
@@ -206,7 +210,7 @@ PreloadWeight=0
 [Containments][25][General]
 alignment=10
 alignmentUpgraded=true
-appletOrder=26;47;43;29;53;51;50;52
+appletOrder=26;47;43;58;29;53;51;50;52
 appletShadowsEnabled=false
 autoDecreaseIconSize=false
 autoSizeEnabled=false
@@ -285,12 +289,8 @@ plugin=org.kde.plasma.keyboardlayout
 [Containments][30][Applets][54][Configuration]
 PreloadWeight=0
 
-[Containments][30][Applets][55]
-immutability=1
-plugin=org.kde.plasma.volume
-
 [Containments][30][Applets][55][Configuration]
-PreloadWeight=0
+PreloadWeight=42
 
 [Containments][30][Applets][56]
 immutability=1
@@ -308,11 +308,11 @@ PreloadWeight=0
 
 [Containments][30][ConfigDialog]
 DialogHeight=662
-DialogWidth=720
+DialogWidth=1014
 
 [Containments][30][General]
-extraItems=org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager
-hiddenItems=Package Manager
+extraItems=org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,Latte Dock_microphone
+hiddenItems=Package Manager,Latte Dock_microphone
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager
 
 [LayoutSettings]
