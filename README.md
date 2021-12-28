@@ -1,10 +1,10 @@
-1. Install [**_EndeavourOS_**](https://endeavouros.com/):
+1. Install [**_EndeavourOS_**](https://endeavouros.com/latest-release/):
 
-- Before installing, download [`usr_pkglist.txt`](./usr_pkglist.txt) and place it in `~/home/liveuser` folder.
+- Before installing, download [`user_pkglist.txt`](./user_pkglist.txt) and place it in `~/home/liveuser` folder.
 - While installing with **_Calamares_**, choose **_KDE_** as main desktop environment and remove some unnecessary packages:
   - `spectacle`
   - `elisa`
-- After installing, do some extra works around [`usr_pkglist.txt`](./usr_pkglist.txt):
+- After installing, do some extra works around [`user_pkglist.txt`](./user_pkglist.txt):
   - Configure packages that have comment attached with.
   - Install packages that are commented out.
 
