@@ -768,6 +768,7 @@ Shortcut=
 [WM]
 activeBackground[$d]
 activeBlend[$d]
+activeFont[$d]
 activeForeground[$d]
 inactiveBackground[$d]
 inactiveBlend[$d]
