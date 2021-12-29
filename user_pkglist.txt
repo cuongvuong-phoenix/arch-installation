@@ -5,7 +5,7 @@
 ## 0.1 - Run time & Development Kit
 jdk-openjdk
 # nvm (AUR)
-# yarn (Depends on `nvm`)
+yarn
 rustup # (Need further configurations: https://wiki.archlinux.org/title/Rust#Arch_Linux_package)
 go
 mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
@@ -28,9 +28,9 @@ ttf-lato
 ttf-roboto
 ttf-roboto-mono
 ttf-jetbrains-mono
-# nerd-fonts-jetbrains-mono (AUR)
 # ttf-ms-fonts (AUR)
-# ttf-mac-fonts (AUR)
+# apple-fonts (AUR)
+# nerd-fonts-jetbrains-mono (AUR)
 
 # 1 - Internet
 ## 1.1 - Web browsers
@@ -59,9 +59,9 @@ flameshot
 # figma-linux (AUR)
 
 ## 2.2 - Audio
-# pipewire-alsa (Install manually and configure based on: https://wiki.archlinux.org/title/PipeWire#Audio)
-# pipewire-pulse (Install manually)
-# pipewire-jack (Install manually)
+# (AUTO) # pipewire-alsa (Install manually and configure based on: https://wiki.archlinux.org/title/PipeWire#Audio)
+# (AUTO) # pipewire-pulse (Install manually)
+# (AUTO) # pipewire-jack (Install manually)
 audacity
 clementine
 # spotify (AUR - Need configure before installing: https://aur.archlinux.org/packages/spotify/)
@@ -86,17 +86,17 @@ rclone
 ## 3.3 - Text Input
 onboard
 ibus
-# ibus-bamboo
+# ibus-bamboo (AUR)
 
 ## 3.4 - Package Manager
 # pamac-aur (AUR)
 
 ## 3.5 - Disks
 gparted
-kdf
+qdirstat (AUR)
 
 ## 3.6 - System
-os-prober # (Need further configurations: https://wiki.archlinux.org/title/GRUB#Detecting_other_operating_systems)
+# (AUTO) os-prober # (Need further configurations: https://wiki.archlinux.org/title/GRUB#Detecting_other_operating_systems)
 htop
 # mkinitcpio-numlock # (OPTIONAL - AUR - Need further configurations: https://wiki.archlinux.org/title/Activating_numlock_on_bootup#Early_bootup_(mkinitcpio))
 bluez-utils
