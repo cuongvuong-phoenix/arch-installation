@@ -129,3 +129,6 @@ khotkeys
 kruler
 # lightly-qt (AUR)
 latte-dock
+
+## Uncategorized
+xclip
