@@ -28,9 +28,10 @@ ttf-lato
 ttf-roboto
 ttf-roboto-mono
 ttf-jetbrains-mono
-# ttf-ms-fonts (AUR)
-# apple-fonts (AUR)
 # nerd-fonts-jetbrains-mono (AUR)
+# ttf-ms-fonts (AUR)
+# ttf-vista-fonts (AUR)
+# apple-fonts (AUR)
 
 # 1 - Internet
 ## 1.1 - Web browsers
@@ -127,6 +128,7 @@ clamtk
 ## 6.2 - Desktop environments (KDE)
 kdeplasma-addons
 khotkeys
+kdialog
 kruler
 # lightly-qt (AUR)
 latte-dock
