@@ -49,7 +49,7 @@
 - Task Switcher:
   - Main:
     - Visualization:
-      - Tick: _(Your taste)_
+      - Tick: Compact
 - KWin Scripts:
   - Move Window and Focus to Desktop
 
