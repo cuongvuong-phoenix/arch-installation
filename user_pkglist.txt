@@ -65,9 +65,11 @@ clementine
 # spotify (AUR - Need configure before installing: https://aur.archlinux.org/packages/spotify/)
 
 ## 2.3 - Video
+ffmpegthumbs
 vlc
 handbrake
-ffmpegthumbs
+peek
+gifski
 
 # 3 - Utilities
 ## 3.1 - Terminal
@@ -122,6 +124,7 @@ clamtk
 # ticktick-nativefier (AUR)
 
 ## 6.2 - Desktop environments (KDE)
+ksysguard
 kdeplasma-addons
 kdialog
 kruler
