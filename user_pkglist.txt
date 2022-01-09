@@ -60,9 +60,6 @@ flameshot
 # figma-linux (AUR)
 
 ## 2.2 - Audio
-# (AUTO) # pipewire-alsa (Install manually and configure based on: https://wiki.archlinux.org/title/PipeWire#Audio)
-# (AUTO) # pipewire-pulse (Install manually)
-# (AUTO) # pipewire-jack (Install manually)
 audacity
 clementine
 # spotify (AUR - Need configure before installing: https://aur.archlinux.org/packages/spotify/)
@@ -98,7 +95,6 @@ gparted
 qdirstat (AUR)
 
 ## 3.6 - System
-# (AUTO) os-prober # (Need further configurations: https://wiki.archlinux.org/title/GRUB#Detecting_other_operating_systems)
 htop
 # mkinitcpio-numlock # (OPTIONAL - AUR - Need further configurations: https://wiki.archlinux.org/title/Activating_numlock_on_bootup#Early_bootup_(mkinitcpio))
 bluez-utils
@@ -127,7 +123,6 @@ clamtk
 
 ## 6.2 - Desktop environments (KDE)
 kdeplasma-addons
-khotkeys
 kdialog
 kruler
 # lightly-qt (AUR)

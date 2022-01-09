@@ -3,15 +3,18 @@
 1. Install [**_EndeavourOS_**](https://endeavouros.com/latest-release/):
 
    - Before installing, download [`user_pkglist.txt`](./user_pkglist.txt) and place it in `~/home/liveuser` folder.
-   - While installing with **_Calamares_**, choose **_KDE_** as main desktop environment and remove some unnecessary packages:
-     - `spectacle`
-     - `elisa`
-   - After done installing, do some extra works around [`user_pkglist.txt`](./user_pkglist.txt):
-     - Configure packages that have comment attached with.
-     - Install packages that are commented out.
+   - At _Chossing Desktop Enviroment_ stage:
+     - **IF** using _Intel Graphics Card_, uncheck `xf86-video-intel` in `Base Devel > GPU drivers`.
+     - Choose **_KDE Desktop_** and remove unnecessary packages:
+       - `dragon`.
+       - `elisa`.
+       - `spectacle`.
 
 2. Post-install:
 
+   - Do extra works around [`user_pkglist.txt`](./user_pkglist.txt):
+     - Configure packages that have comment attached with.
+     - Install packages that are commented out.
    - Reduce [`vm.swappiness`](https://wiki.archlinux.org/title/Swap#Swappiness) to `10`.
    - Edit `/etc/fstab` using [this](https://gist.github.com/vuong-cuong-phoenix/784fe2aef1c062c90010c010e7126a7f) sample file.
    - **IF** dual booting, check [this](https://wiki.archlinux.org/title/Dual_boot_with_Windows) for further actions.
