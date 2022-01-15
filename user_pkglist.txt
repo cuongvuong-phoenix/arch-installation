@@ -24,6 +24,9 @@ virtualbox
 # postman-bin (AUR)
 
 ## 0.3 - Fonts
+noto-fonts-emoji # Emoji
+otf-latin-modern # Math
+otf-latinmodern-math # Math
 ttf-lato
 ttf-roboto
 ttf-roboto-mono
