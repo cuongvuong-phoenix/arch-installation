@@ -137,3 +137,4 @@ latte-dock
 ## Uncategorized
 xclip
 # libinput-multiplier (AUR)
+mkcert
