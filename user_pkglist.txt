@@ -3,6 +3,8 @@
 
 # 0 - Base
 ## 0.1 - Run time & Development Kit
+llvm
+clang
 jdk-openjdk
 # nvm (AUR)
 yarn
@@ -23,7 +25,12 @@ virtualbox-host-modules-arch
 virtualbox
 # postman-bin (AUR)
 
-## 0.3 - Fonts
+## 0.3 - Development Enhancement
+# Rust
+mold
+sccache
+
+## 0.4 - Fonts
 noto-fonts-emoji # Emoji
 otf-latin-modern # Math
 otf-latinmodern-math # Math
