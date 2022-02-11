@@ -20,6 +20,7 @@ docker-compose
 ## 0.2 - Development Environment
 python-pipenv
 # vscodium-bin (AUR)
+# vscodium-bin-marketplace (AUR)
 dbeaver
 virtualbox-host-modules-arch
 virtualbox
