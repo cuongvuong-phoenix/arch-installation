@@ -68,7 +68,7 @@ discord
 gimp
 inkscape
 flameshot
-# figma-linux (AUR)
+# figma-linux (Flatpak)
 
 ## 2.2 - Audio
 audacity
@@ -101,7 +101,7 @@ ibus
 # ibus-bamboo (AUR)
 
 ## 3.4 - Package Manager
-# pamac-aur (AUR)
+# pamac-nosnap (AUR)
 
 ## 3.5 - Disks
 gparted
@@ -113,7 +113,7 @@ htop
 bluez-utils
 bluedevil
 
-# 4 - Documents
+# 4 - Documents and texts
 ## 4.1 - Text Editor
 neovim
 
@@ -122,6 +122,9 @@ libreoffice-fresh
 
 ## 4.3 - Readers and viewers
 okular
+
+## 4.4 - Notes
+# joplin (Flatpak)
 
 # 5 - Security
 ## 5.1 - Firewall management
