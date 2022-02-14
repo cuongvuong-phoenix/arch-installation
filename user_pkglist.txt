@@ -5,10 +5,11 @@
 ## 0.1 - Run time & Development Kit
 llvm
 clang
-jdk-openjdk
 # nvm (AUR)
 yarn
+# pnpm (AUR)
 rustup # (Need further configurations: https://wiki.archlinux.org/title/Rust#Arch_Linux_package)
+jdk-openjdk
 go
 mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
 postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
