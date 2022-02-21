@@ -17,6 +17,8 @@ postgresql # (Need further configurations: https://wiki.archlinux.org/title/Post
 # mongodb-bin (AUR)
 docker # (Need further configurations: https://wiki.archlinux.org/title/Docker#Installation)
 docker-compose
+# aws-cli-v2-bin (AUR)
+# amazon-ecr-credential-helper (AUR)
 
 ## 0.2 - Development Environment
 python-pipenv
