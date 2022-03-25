@@ -11,12 +11,11 @@ yarn
 rustup # (Need further configurations: https://wiki.archlinux.org/title/Rust#Arch_Linux_package)
 jdk-openjdk
 go
-mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
 postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
-# cassandra (AUR)
-# mongodb-bin (AUR)
-docker # (Need further configurations: https://wiki.archlinux.org/title/Docker#Installation)
-docker-compose
+mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
+# mongodb-bin (AUR) # (Need further configurations: https://wiki.archlinux.org/title/MongoDB#Installation)
+# mongodb-tools-bin (AUR)
+# mongosh-bin (AUR)
 # aws-cli-v2-bin (AUR)
 # amazon-ecr-credential-helper (AUR)
 
@@ -28,6 +27,8 @@ dbeaver
 virtualbox-host-modules-arch
 virtualbox
 # postman-bin (AUR)
+docker # (Need further configurations: https://wiki.archlinux.org/title/Docker#Installation)
+docker-compose
 
 ## 0.3 - Development Enhancement
 # Rust
@@ -108,7 +109,7 @@ ibus
 
 ## 3.5 - Disks
 gparted
-qdirstat (AUR)
+# qdirstat (AUR)
 
 ## 3.6 - System
 htop
@@ -127,7 +128,7 @@ libreoffice-fresh
 okular
 
 ## 4.4 - Notes
-# joplin (Flatpak)
+# joplin-appimage (AUR)
 
 # 5 - Security
 ## 5.1 - Firewall management
