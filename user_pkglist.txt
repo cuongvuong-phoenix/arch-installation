@@ -11,6 +11,7 @@ yarn
 rustup # (Need further configurations: https://wiki.archlinux.org/title/Rust#Arch_Linux_package)
 jdk-openjdk
 go
+redis
 postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
 mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
 # mongodb-bin (AUR) # (Need further configurations: https://wiki.archlinux.org/title/MongoDB#Installation)
