@@ -106,7 +106,7 @@ ibus
 # ibus-bamboo (AUR)
 
 ## 3.4 - Package Manager
-# pamac-nosnap (AUR)
+# pamac-all (AUR)
 
 ## 3.5 - Disks
 gparted
