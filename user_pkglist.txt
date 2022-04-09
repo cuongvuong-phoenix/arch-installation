@@ -32,7 +32,7 @@ docker # (Need further configurations: https://wiki.archlinux.org/title/Docker#I
 docker-compose
 
 ## 0.3 - Development Enhancement
-# Rust
+# C/C++, Rust
 mold
 sccache
 
@@ -56,7 +56,7 @@ vivaldi
 
 ## 1.2 - File sharing
 samba # (Need further configurations: https://wiki.archlinux.org/title/Samba#Installation)
-qbittorrent
+# qbittorrent-enhanced (AUR)
 # xdman (AUR)
 
 ## 1.3 - Communication
@@ -111,6 +111,7 @@ ibus
 ## 3.5 - Disks
 gparted
 # qdirstat (AUR)
+# ventoy-bin (AUR)
 
 ## 3.6 - System
 htop
