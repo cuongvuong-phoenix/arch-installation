@@ -149,8 +149,9 @@ clamtk
 ksysguard
 kdeplasma-addons
 kdialog
-kruler
 kdenetwork-filesharing
+kruler
+krename
 # lightly-qt (AUR)
 latte-dock
 
