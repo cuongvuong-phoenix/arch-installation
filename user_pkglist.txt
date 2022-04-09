@@ -99,6 +99,8 @@ bat
 ## 3.2 - Files
 rsync
 rclone
+syncthing # (Need further configurations: https://wiki.archlinux.org/title/Syncthing#Installation)
+# syncthingtray (AUR)
 
 ## 3.3 - Text Input
 onboard
