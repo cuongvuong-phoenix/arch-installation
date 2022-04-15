@@ -5,7 +5,8 @@
 ## 0.1 - Run time & Development Kit
 llvm
 clang
-# nvm (AUR)
+# asdf-vm (AUR) (Need further configurations: https://asdf-vm.com/guide/getting-started.html)
+python2
 yarn
 # pnpm (AUR)
 rustup # (Need further configurations: https://wiki.archlinux.org/title/Rust#Arch_Linux_package)
@@ -14,6 +15,7 @@ go
 redis
 postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
 mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
+unixodbc
 # mongodb-bin (AUR) # (Need further configurations: https://wiki.archlinux.org/title/MongoDB#Installation)
 # mongodb-tools-bin (AUR)
 # mongosh-bin (AUR)
@@ -64,6 +66,7 @@ telegram-desktop
 discord
 # slack-desktop (AUR)
 # rambox-bin (AUR)
+# zoom (AUR)
 
 ## 1.4 - Remote desktop
 # anydesk-bin (AUR)
