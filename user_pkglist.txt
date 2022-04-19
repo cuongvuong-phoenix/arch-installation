@@ -13,6 +13,7 @@ rustup # (Need further configurations: https://wiki.archlinux.org/title/Rust#Arc
 jdk-openjdk
 go
 redis
+sqlite
 postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
 mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
 unixodbc
