@@ -163,3 +163,4 @@ latte-dock
 xclip
 # libinput-multiplier (AUR)
 mkcert
+gnome-keyring
