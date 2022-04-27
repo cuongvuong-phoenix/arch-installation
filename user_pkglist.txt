@@ -85,7 +85,6 @@ clementine
 # spotify (AUR - Need configure before installing: https://aur.archlinux.org/packages/spotify/)
 
 ## 2.3 - Video
-ffmpegthumbs
 vlc
 handbrake
 peek
@@ -158,6 +157,11 @@ kruler
 krename
 # lightly-qt (AUR)
 latte-dock
+# File previews for Dolphin.
+ffmpegthumbs
+kdegraphics-thumbnailers
+kimageformats
+kdesdk-thumbnailers
 
 ## Uncategorized
 xclip
