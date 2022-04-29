@@ -33,7 +33,7 @@ PreloadWeight=0
 [Containments][1][Applets][2][Configuration][General]
 groupTasksByDefault=false
 isInLatteDock=true
-launchers59=applications:io.dbeaver.DBeaver.desktop,applications:postman.desktop,applications:codium.desktop,applications:Alacritty.desktop,file:///latte-separator1.desktop,applications:io.github.Figma_Linux.figma_linux.desktop,applications:org.inkscape.Inkscape.desktop,applications:gimp.desktop,applications:org.kde.okular.desktop,applications:org.kde.kate.desktop,file:///latte-separator3.desktop,applications:org.kde.dolphin.desktop,applications:brave-browser.desktop,applications:rambox.desktop,applications:telegramdesktop.desktop,applications:discord.desktop,applications:slack.desktop,file:///latte-separator2.desktop,applications:joplin.desktop,applications:vlc.desktop,applications:spotify.desktop,applications:org.manjaro.pamac.manager.desktop,applications:systemsettings.desktop
+launchers59=applications:io.dbeaver.DBeaver.desktop,applications:postman.desktop,applications:codium.desktop,applications:Alacritty.desktop,file:///latte-separator1.desktop,applications:figma-linux.desktop,applications:org.inkscape.Inkscape.desktop,applications:gimp.desktop,applications:org.kde.okular.desktop,applications:org.kde.kate.desktop,file:///latte-separator3.desktop,applications:org.kde.dolphin.desktop,applications:brave-browser.desktop,applications:rambox.desktop,applications:slack.desktop,applications:discord.desktop,file:///latte-separator2.desktop,applications:joplin.desktop,applications:vlc.desktop,applications:org.manjaro.pamac.manager.desktop,applications:systemsettings.desktop
 showOnlyCurrentDesktop=true
 showOnlyCurrentScreen=true
 taskScrollAction=ScrollNone
@@ -102,7 +102,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][25][Applets][26][Configuration]
-PreloadWeight=84
+PreloadWeight=100
 
 [Containments][25][Applets][26][Configuration][ConfigDialog]
 DialogHeight=540
@@ -127,7 +127,7 @@ immutability=1
 plugin=org.kde.plasma.eventcalendar
 
 [Containments][25][Applets][43][Configuration]
-PreloadWeight=0
+PreloadWeight=51
 
 [Containments][25][Applets][43][Configuration][ConfigDialog]
 DialogHeight=540
@@ -166,7 +166,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][25][Applets][51][Configuration]
-PreloadWeight=0
+PreloadWeight=54
 
 [Containments][25][Applets][51][Configuration][ConfigDialog]
 DialogHeight=540
@@ -213,7 +213,7 @@ PreloadWeight=0
 [Containments][25][General]
 alignment=10
 alignmentUpgraded=true
-appletOrder=26;47;43;58;29;53;51;50;52;61
+appletOrder=26;47;43;58;29;53;51;50;52
 appletShadowsEnabled=false
 autoDecreaseIconSize=false
 autoSizeEnabled=false
@@ -320,14 +320,25 @@ plugin=org.kde.plasma.keyboardindicator
 [Containments][30][Applets][60][Configuration]
 PreloadWeight=0
 
+[Containments][30][Applets][62]
+immutability=1
+plugin=martchus.syncthingplasmoid
+
+[Containments][30][Applets][62][Configuration]
+PreloadWeight=0
+brightColors=true
+passiveStates=
+selectedConfig=0
+size=25,25
+
 [Containments][30][ConfigDialog]
 DialogHeight=662
 DialogWidth=1014
 
 [Containments][30][General]
-extraItems=org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator
+extraItems=org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator,martchus.syncthingplasmoid
 hiddenItems=Package Manager,Latte Dock_microphone
-knownItems=org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator
+knownItems=org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.printmanager,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardindicator,martchus.syncthingplasmoid
 
 [LayoutSettings]
 activities=
