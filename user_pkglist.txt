@@ -30,9 +30,10 @@ python-pipenv
 dbeaver
 virtualbox-host-modules-arch
 virtualbox
-# postman-bin (AUR)
 docker # (Need further configurations: https://wiki.archlinux.org/title/Docker#Installation)
 docker-compose
+# postman-bin (AUR)
+# heroku-cli-bin (AUR)
 
 ## 0.3 - Development Enhancement
 # C/C++, Rust
