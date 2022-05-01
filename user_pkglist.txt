@@ -18,7 +18,7 @@ postgresql # (Need further configurations: https://wiki.archlinux.org/title/Post
 postgresql-old-upgrade
 mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
 unixodbc
-# mongodb-bin (AUR) # (Need further configurations: https://wiki.archlinux.org/title/MongoDB#Installation)
+# mongodb-bin (AUR)
 # mongodb-tools-bin (AUR)
 # mongosh-bin (AUR)
 # aws-cli-v2-bin (AUR)
@@ -85,7 +85,6 @@ flameshot
 ## 2.2 - Audio
 audacity
 clementine
-# spotify (AUR - Need configure before installing: https://aur.archlinux.org/packages/spotify/)
 
 ## 2.3 - Video
 vlc
