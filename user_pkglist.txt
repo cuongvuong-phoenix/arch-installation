@@ -15,6 +15,7 @@ go
 redis
 sqlite
 postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
+postgresql-old-upgrade
 mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
 unixodbc
 # mongodb-bin (AUR) # (Need further configurations: https://wiki.archlinux.org/title/MongoDB#Installation)
@@ -57,6 +58,7 @@ ttf-jetbrains-mono
 ## 1.1 - Web browsers
 # brave-bin (AUR)
 vivaldi
+vivaldi-ffmpeg-codecs
 
 ## 1.2 - File sharing
 samba # (Need further configurations: https://wiki.archlinux.org/title/Samba#Installation)
@@ -116,7 +118,7 @@ ibus
 
 ## 3.5 - Disks
 gparted
-# qdirstat (AUR)
+# qdirstat-bin (AUR)
 # ventoy-bin (AUR)
 
 ## 3.6 - System
