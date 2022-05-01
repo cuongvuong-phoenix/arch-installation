@@ -146,10 +146,8 @@ gufw
 clamtk
 
 # 6 - Others
-## 6.1 - Organization
-# ticktick-nativefier (AUR)
 
-## 6.2 - Desktop environments - KDE
+## 6.1 - Desktop environments - KDE
 ksysguard
 kdeplasma-addons
 kdialog
