@@ -12,14 +12,18 @@
 
 2. Post-install:
 
-   - Do extra works around [`user_pkglist.txt`](./user_pkglist.txt):
-     - Configure packages that have comment attached with.
-     - Install packages that are commented out.
-   - Reduce [`vm.swappiness`](https://wiki.archlinux.org/title/Swap#Swappiness) to `10`.
-   - Edit `/etc/fstab` using [this](https://gist.github.com/vuong-cuong-phoenix/784fe2aef1c062c90010c010e7126a7f) sample file.
-   - **IF** dual booting, check [this](https://wiki.archlinux.org/title/Dual_boot_with_Windows) for further actions.
+    - Install foreign packages using [`foreign_pkglist.txt`](./foreign_pkglist.txt) and `yay`:
 
-3. Install [**_dotfiles_**](https://github.com/vuong-cuong-phoenix/dotfiles).
+      ```sh
+      yay -S --needed - < foreign_pkglist.txt
+      ```
+
+    - [Configure packages](./config-packages.md).
+    - [Reduce `vm.swappiness` to `10`](https://wiki.archlinux.org/title/Swap#Swappiness).
+    - Adjust `/etc/fstab` using [this](https://gist.github.com/cuongvuong-phoenix/784fe2aef1c062c90010c010e7126a7f) sample file.
+    - **IF** dual booting, check [this](https://wiki.archlinux.org/title/Dual_boot_with_Windows) for further actions.
+
+3. Install [**_dotfiles_**](https://github.com/cuongvuong-phoenix/dotfiles).
 
 4. Configure **_KDE_**:
 

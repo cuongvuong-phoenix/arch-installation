@@ -1,170 +1,298 @@
-# Add package names available from repositories (not from AUR) one package-name per line.
-# Note: not for offline install.
-
-# 0 - Base
-## 0.1 - Run time & Development Kit
-llvm
+accountsservice
+adobe-source-han-sans-cn-fonts
+adobe-source-han-sans-jp-fonts
+adobe-source-han-sans-kr-fonts
+alacritty
+alsa-firmware
+alsa-plugins
+alsa-utils
+amd-ucode
+ark
+audacity
+audiocd-kio
+autoconf
+automake
+b43-fwcutter
+base
+bash-completion
+bat
+bind
+binutils
+bison
+bluedevil
+bluez
+bluez-utils
+breeze-gtk
+btrfs-progs
+cantarell-fonts
+clamtk
 clang
-# asdf-vm (AUR) (Need further configurations: https://asdf-vm.com/guide/getting-started.html)
-python2
-yarn
-# pnpm (AUR)
-rustup # (Need further configurations: https://wiki.archlinux.org/title/Rust#Arch_Linux_package)
-jdk-openjdk
-go
-redis
-sqlite
-postgresql # (Need further configurations: https://wiki.archlinux.org/title/PostgreSQL#Installation)
-postgresql-old-upgrade
-mariadb # (Need further configurations: https://wiki.archlinux.org/title/MariaDB#Installation)
-unixodbc
-# mongodb-bin (AUR)
-# mongodb-tools-bin (AUR)
-# mongosh-bin (AUR)
-# aws-cli-v2-bin (AUR)
-# amazon-ecr-credential-helper (AUR)
-
-## 0.2 - Development Environment
-python-pipenv
-# vscodium-bin (AUR)
-# vscodium-bin-marketplace (AUR)
+clementine
+cryptsetup
 dbeaver
-virtualbox-host-modules-arch
-virtualbox
-docker # (Need further configurations: https://wiki.archlinux.org/title/Docker#Installation)
+device-mapper
+dhclient
+dialog
+diffutils
+discord
+dmidecode
+dmraid
+dnsmasq
+docker
 docker-compose
-# postman-bin (AUR)
-# heroku-cli-bin (AUR)
-
-## 0.3 - Development Enhancement
-# C/C++, Rust
+dolphin
+dosfstools
+downgrade
+duf
+e2fsprogs
+efibootmgr
+efitools
+endeavouros-keyring
+endeavouros-mirrorlist
+endeavouros-theming
+eos-apps-info
+eos-hooks
+eos-log-tool
+eos-packagelist
+eos-plasma-sddm-config
+eos-quickstart
+eos-rankmirrors
+eos-update-notifier
+ethtool
+exfatprogs
+f2fs-tools
+fakeroot
+fd
+ffmpegthumbnailer
+ffmpegthumbs
+file
+findutils
+firefox
+firewalld
+flameshot
+flex
+fsarchiver
+gawk
+gcc
+gettext
+gifski
+gimp
+git
+glances
+gnome-keyring
+gnu-netcat
+go
+gparted
+grep
+groff
+grub
+grub-tools
+grub2-theme-endeavouros
+gst-libav
+gst-plugin-pipewire
+gst-plugins-bad
+gst-plugins-ugly
+gwenview
+gzip
+handbrake
+haveged
+hdparm
+htop
+hwdetect
+hwinfo
+ibus
+inetutils
+inkscape
+inxi
+ipw2100-fw
+ipw2200-fw
+iwd
+jdk-openjdk
+jfsutils
+jq
+kate
+kcalc
+kde-gtk-config
+kdeconnect
+kdegraphics-thumbnailers
+kdenetwork-filesharing
+kdeplasma-addons
+kdesdk-thumbnailers
+kdialog
+khotkeys
+kimageformats
+kinfocenter
+kinit
+kio-fuse
+konsole
+krename
+kruler
+kscreen
+ksysguard
+kwallet-pam
+latte-dock
+less
+libdvdcss
+libgsf
+libopenraw
+libreoffice-fresh
+libtool
+libwnck3
+linux
+linux-firmware
+linux-headers
+llvm
+logrotate
+lsb-release
+lsscsi
+lvm2
+m4
+make
+man-db
+man-pages
+mariadb
+mdadm
+meld
+mesa-utils
+mkcert
+mkinitcpio
+mkinitcpio-busybox
+mkinitcpio-nfs-utils
+mkinitcpio-openswap
+mlocate
+modemmanager
 mold
+mtools
+nano
+nano-syntax-highlighting
+nbd
+ndisc6
+neofetch
+neovim
+netctl
+networkmanager
+networkmanager-openvpn
+nfs-utils
+nilfs-utils
+nmap
+noto-fonts
+noto-fonts-emoji
+nss-mdns
+ntfs-3g
+ntp
+okular
+onboard
+openconnect
+openvpn
+os-prober
+otf-latin-modern
+otf-latinmodern-math
+pacman
+pacman-contrib
+patch
+pavucontrol
+peek
+perl
+pipewire-alsa
+pipewire-jack
+pipewire-media-session
+pipewire-pulse
+pkgconf
+pkgfile
+plasma-desktop
+plasma-disks
+plasma-nm
+plasma-pa
+poppler-glib
+postgresql
+postgresql-old-upgrade
+power-profiles-daemon
+powerdevil
+ppp
+pptpclient
+print-manager
+pv
+python
+python-capng
+python-defusedxml
+python-packaging
+python-pipenv
+python-pyqt5
+python2
+rclone
+rebuild-detector
+redis
+reflector
+reflector-simple
+reiserfsprogs
+ripgrep
+rp-pppoe
+rsync
+rustup
+s-nail
+samba
 sccache
-
-## 0.4 - Fonts
-noto-fonts-emoji # Emoji
-otf-latin-modern # Math
-otf-latinmodern-math # Math
+sddm-kcm
+sed
+sg3_utils
+smartmontools
+sof-firmware
+solid
+sshfs
+sudo
+syncthing
+sysfsutils
+sysstat
+systemd-sysvcompat
+telegram-desktop
+texinfo
+tldr
+tmux
+ttf-bitstream-vera
+ttf-dejavu
+ttf-jetbrains-mono
 ttf-lato
+ttf-liberation
+ttf-opensans
 ttf-roboto
 ttf-roboto-mono
-ttf-jetbrains-mono
-# nerd-fonts-jetbrains-mono (AUR)
-# ttf-ms-fonts (AUR)
-# ttf-vista-fonts (AUR)
-# apple-fonts (AUR)
-
-# 1 - Internet
-## 1.1 - Web browsers
-# brave-bin (AUR)
+unixodbc
+unrar
+unzip
+upower
+usb_modeswitch
+usbutils
+vi
+virtualbox
+virtualbox-host-modules-arch
 vivaldi
 vivaldi-ffmpeg-codecs
-
-## 1.2 - File sharing
-samba # (Need further configurations: https://wiki.archlinux.org/title/Samba#Installation)
-# qbittorrent-enhanced (AUR)
-# xdman (AUR)
-
-## 1.3 - Communication
-telegram-desktop
-discord
-# slack-desktop (AUR)
-# rambox-bin (AUR)
-# zoom (AUR)
-
-## 1.4 - Remote desktop
-# anydesk-bin (AUR)
-
-# 2 - Multimedia
-## 2.1 - Image
-gimp
-inkscape
-flameshot
-# figma-linux (Flatpak)
-
-## 2.2 - Audio
-audacity
-clementine
-
-## 2.3 - Video
 vlc
-handbrake
-peek
-gifski
-
-# 3 - Utilities
-## 3.1 - Terminal
-alacritty
-tmux
-fzf
-ripgrep
-fd
-bat
-
-## 3.2 - Files
-rsync
-rclone
-syncthing # (Need further configurations: https://wiki.archlinux.org/title/Syncthing#Installation)
-# syncthingtray (AUR)
-
-## 3.3 - Text Input
-onboard
-ibus
-# ibus-bamboo (AUR)
-
-## 3.4 - Package Manager
-# pamac-all (AUR)
-
-## 3.5 - Disks
-gparted
-# qdirstat-bin (AUR)
-# ventoy-bin (AUR)
-
-## 3.6 - System
-htop
-# mkinitcpio-numlock # (OPTIONAL - AUR - Need further configurations: https://wiki.archlinux.org/title/Activating_numlock_on_bootup#Early_bootup_(mkinitcpio))
-bluez-utils
-bluedevil
-
-# 4 - Documents and texts
-## 4.1 - Text Editor
-neovim
-
-## 4.2 - Office
-libreoffice-fresh
-
-## 4.3 - Readers and viewers
-okular
-
-## 4.4 - Notes
-# joplin-appimage (AUR)
-
-# 5 - Security
-## 5.1 - Firewall management
-gufw
-
-## 5.2 - Anti malware
-clamtk
-
-# 6 - Others
-
-## 6.1 - Desktop environments - KDE
-ksysguard
-kdeplasma-addons
-kdialog
-kdenetwork-filesharing
-kruler
-krename
-# lightly-qt (AUR)
-latte-dock
-# File previews for Dolphin.
-ffmpegthumbs
-kdegraphics-thumbnailers
-kimageformats
-kdesdk-thumbnailers
-
-## Uncategorized
+vpnc
+welcome
+wget
+which
+whois
+wireless-regdb
+wireless_tools
+wpa_supplicant
 xclip
-# libinput-multiplier (AUR)
-mkcert
-gnome-keyring
+xdg-user-dirs
+xdg-utils
+xf86-input-libinput
+xf86-video-amdgpu
+xf86-video-ati
+xfsprogs
+xl2tpd
+xorg-server
+xorg-xdpyinfo
+xorg-xinit
+xorg-xinput
+xorg-xkill
+xorg-xrandr
+xsettingsd
+xterm
+yad-eos
+yarn
+yay
+zsh
