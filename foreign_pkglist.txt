@@ -18,7 +18,6 @@ nerd-fonts-jetbrains-mono
 pamac-aur
 pnpm-bin
 postman-bin
-qbittorrent-enhanced
 qdirstat-bin
 rambox-bin
 slack-desktop
@@ -28,5 +27,6 @@ ttf-vista-fonts
 ventoy-bin
 vscodium-bin
 vscodium-bin-marketplace
+watchman-bin
 xdman
 zoom

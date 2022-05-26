@@ -71,6 +71,7 @@ firefox
 firewalld
 flameshot
 flex
+freetds
 fsarchiver
 gawk
 gcc
@@ -91,6 +92,7 @@ grub2-theme-endeavouros
 gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
+gst-plugins-good
 gst-plugins-ugly
 gwenview
 gzip
@@ -180,6 +182,7 @@ noto-fonts-emoji
 nss-mdns
 ntfs-3g
 ntp
+nvme-cli
 okular
 onboard
 openconnect
@@ -219,6 +222,7 @@ python-packaging
 python-pipenv
 python-pyqt5
 python2
+qbittorrent
 rclone
 rebuild-detector
 redis
