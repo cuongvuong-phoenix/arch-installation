@@ -24,9 +24,9 @@ slack-desktop
 syncthingtray
 ttf-ms-fonts
 ttf-vista-fonts
+vanta-agent
 ventoy-bin
-vscodium-bin
-vscodium-bin-marketplace
+visual-studio-code-bin
 watchman-bin
 xdman
 zoom
