@@ -21,6 +21,7 @@ postman-bin
 qdirstat-bin
 rambox-bin
 slack-desktop
+superproductivity-bin
 syncthingtray
 ttf-ms-fonts
 ttf-vista-fonts

@@ -12,6 +12,7 @@ audacity
 audiocd-kio
 autoconf
 automake
+autossh
 b43-fwcutter
 base
 bash-completion
@@ -25,6 +26,7 @@ bluez-utils
 breeze-gtk
 btrfs-progs
 cantarell-fonts
+chromium
 clamtk
 clang
 clementine
@@ -198,7 +200,6 @@ peek
 perl
 pipewire-alsa
 pipewire-jack
-pipewire-media-session
 pipewire-pulse
 pkgconf
 pkgfile
@@ -279,6 +280,7 @@ which
 whois
 wireless-regdb
 wireless_tools
+wireshark-qt
 wpa_supplicant
 xclip
 xdg-user-dirs
@@ -290,6 +292,7 @@ xfsprogs
 xl2tpd
 xorg-server
 xorg-xdpyinfo
+xorg-xhost
 xorg-xinit
 xorg-xinput
 xorg-xkill
@@ -299,4 +302,5 @@ xterm
 yad-eos
 yarn
 yay
+youtube-dl
 zsh
