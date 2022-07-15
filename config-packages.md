@@ -58,10 +58,6 @@ Follows are the list of references to follow and steps to get a package working 
 1. [Installation](https://wiki.archlinux.org/title/Docker#Installation).
     _Note:_ If you want to be able to run the `docker` CLI command as a non-root user, add your user to the `docker` user group, re-login, and restart `docker.service`.
 
-## `vscodium-bin`
-
-1. [Install _Settings Sync_ extension by _Shan Khan_](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-
 ## `samba`
 
 1. [Installation](https://wiki.archlinux.org/title/Samba#Installation)
