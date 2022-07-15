@@ -96,6 +96,7 @@ gst-plugin-pipewire
 gst-plugins-bad
 gst-plugins-good
 gst-plugins-ugly
+gvfs-smb
 gwenview
 gzip
 handbrake
@@ -255,6 +256,7 @@ tldr
 tmux
 ttf-bitstream-vera
 ttf-dejavu
+ttf-ibm-plex
 ttf-jetbrains-mono
 ttf-lato
 ttf-liberation
