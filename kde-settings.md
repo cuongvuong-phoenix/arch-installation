@@ -2,100 +2,102 @@
 
 ## Appearance
 
-- Global Theme: Aritim-Dark
-- Application Style: Lightly
-- Plasma Style: Aritim-Dark-Rounded-Blur
-  - Color: Aritim-Dark
-  - Window Decorations: Aritim Dark
-  - Fonts: Roboto
-  - Icons: Papirus-Dark
-  - Cursors: Bibata-Modern-Amber
-  - Splash Screen: BeautifulTreeAnimation
+- **Global Theme**: _Aritim-Dark_
+- **Application Style**: _Lightly_
+  - **GNOME/GTK Application Style**: _Flat Remix GTK_.
+- **Plasma Style**: _Aritim-Dark-Rounded-Blur_
+  - **Color**: _Aritim-Dark_
+  - **Window Decorations**: _Aritim Dark_
+  - **Fonts**: _Roboto_
+  - **Icons**: _Papirus-Dark_
+  - **Cursors**: _Bibata-Modern-Amber_
+  - **Splash Screen**: _1604-Arch-Splash_
 
 ## Workspace Behaviour:
 
-- Desktop Effects:
-  - Zoom
-  - Blur:
-    - Blur strength: 1/2 max.
-    - Noise strength: 0.
-  - Desaturate...
-  - Fading Popups
-  - Full Screen
-  - Login
-  - Logout
-  - Maximize
-  - Morphling popups
-  - Screen Edge
-  - Sliding popups
-  - \*Transluency
-  - Magic Lamp
-  - Dialog Parent
-  - Dim Screen...
-  - Window Aperture
-  - Slide
-  - Desktop Grid
-- Present Windows
-  - Glide
-- Screen Edge: _(Your taste)_
-- Virtual Desktop:
-  - Row 1: 4 Desktop
+- **Desktop Effects**:
+  - _Zoom_
+  - _Blur:_
+    - **Blur strength**: _1/2 max_.
+    - **Noise strength**: _0_.
+  - _Desaturate Unresponsive Applications_
+  - _Fading Popups_
+  - _Full Screen_
+  - _Login_
+  - _Logout_
+  - _Maximize_
+  - _Morphling popups_
+  - _Screen Edge_
+  - _Sliding popups_
+  - _\*Transluency_
+  - _Magic Lamp_
+  - _Dialog Parent_
+  - _Dim Screen for Administrator mode_
+  - _Window Aperture_
+  - _Slide_
+  - _Desktop Grid_
+  - _Glide_
+- **Screen Edge**:
+  - _Bottom Left_: _Desktop Grid_
+  - _Bottom Right_: _Show Desktop_
+- **Virtual Desktop**:
+  - _Row 1_: _4 Desktop_
 
 ## Window Management:
 
-- Window Behaviour:
-  - Advanced:
-    - Window placement: Centered
-- Task Switcher:
-  - Main:
-    - Visualization:
-      - Tick: Compact
-- KWin Scripts:
-  - Move Window and Focus to Desktop
+- **Window Behaviour**:
+  - **Advanced**:
+    - **Window placement**: _Centered_
+- **Task Switcher**:
+  - **Main**:
+    - **Visualization**:
+      - **Tick**: _Compact_
+- **KWin Scripts**:
+  - _Move Window and Focus to Desktop_
 
 ## Shortcuts:
 
-- Shortcuts: [`~/.config/kglobalshortcutsrc](./config/kglobalshortcutsrc)
-- Custom Shortcuts: [`~/.config/khotkeysrc](./config/khotkeysrc)
+- **Shortcuts**: [`~/.config/kglobalshortcutsrc`](./.config/kglobalshortcutsrc)
+- **Custom Shortcuts**: [`~/.config/khotkeysrc`](./.config/khotkeysrc)
 
 ## Startup and Shutdown:
 
-- Login Screen (SDDM): Chili for Plasma
-- Desktop Session:
-  - Default leave option: End current session
-- When logging in: Restore manually saved session
+- **Login Screen (SDDM)**: _Chili for Plasma_
+- **Desktop Session**:
+  - **Default leave option**: _End current session_
+- **When logging in**: _Restore manually saved session_
 
 ## Search:
 
-- KRunner:
-  - Position on screen: Center
-  - Plugins:
-    - Activities
-    - Applications
-    - Calculator
-    - Desktop Sessions
-    - KWin
-    - Plasma Desktop Shell
-    - Power
-    - Terimnate Applications
-    - Unit Converter
+- **KRunner**:
+  - **Position on screen**: _Center_
+  - **Plugins**:
+    - _Activities_
+    - _Applications_
+    - _Calculator_
+    - _Desktop Sessions_
+    - _KWin_
+    - _Plasma Desktop Shell_
+    - _Power_
+    - _Terimnate Applications_
+    - _Unit Converter_
 
 ## Notifications:
 
-- Popup:
-  - Show near notification icon
-  - Hide after: 5 seconds
+- **Popup**:
+  - **Choose custom position**: _Top_.
+  - **Hide after**: _5 seconds_
 
 ## Applications:
 
-- Default Applications:
-- Web browser: Brave
-- File manager: Dolphin
-- Email client: Brave
-- Terminal emulator: Alacritty
+- **Default Applications**:
+  - **Web browser**: _Brave_
+  - **File manager**: _Dolphin_
+  - **Email client**: _Brave_
+  - **Terminal emulator**: _Alacritty_
 
 ## Display and Monitor
 
-- Compositor:
-  - Scale method: Accurate
-  - Rendering backend: OpenGL 3.1
+- **Compositor**:
+  - **Scale method**: _Accurate_
+  - **Rendering backend**: _OpenGL 3.1_
