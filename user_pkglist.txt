@@ -150,6 +150,7 @@ linux-headers
 llvm
 logrotate
 lsb-release
+lsd
 lsscsi
 lvm2
 m4
