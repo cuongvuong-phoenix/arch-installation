@@ -109,6 +109,7 @@ ibus
 inetutils
 inkscape
 inxi
+iptables-nft
 ipw2100-fw
 ipw2200-fw
 iwd
@@ -234,6 +235,7 @@ reiserfsprogs
 ripgrep
 rp-pppoe
 rsync
+rtkit
 rustup
 s-nail
 samba
@@ -263,7 +265,6 @@ ttf-liberation
 ttf-opensans
 ttf-roboto
 ttf-roboto-mono
-unixodbc
 unrar
 unzip
 upower
@@ -282,6 +283,7 @@ which
 whois
 wireless-regdb
 wireless_tools
+wireplumber
 wireshark-qt
 wpa_supplicant
 xclip
