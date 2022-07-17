@@ -1,12 +1,8 @@
-amazon-ecr-credential-helper
 anydesk-bin
 apple-fonts
 asdf-vm
-aws-cli-v2-bin
 brave-bin
-ckb-next
 figma-linux
-heroku-cli-bin
 ibus-bamboo
 joplin-appimage
 libinput-multiplier
@@ -20,6 +16,7 @@ pnpm-bin
 postman-bin
 qdirstat-bin
 rambox-bin
+rtl88xxau-aircrack-dkms-git
 slack-desktop
 superproductivity-bin
 syncthingtray
