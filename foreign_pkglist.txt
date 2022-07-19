@@ -17,7 +17,6 @@ pnpm-bin
 postman-bin
 qdirstat-bin
 rambox-bin
-rtl88xxau-aircrack-dkms-git
 slack-desktop
 superproductivity-bin
 syncthingtray
