@@ -5,6 +5,7 @@ brave-bin
 figma-linux
 ibus-bamboo
 joplin-appimage
+latte-dock-git
 libinput-multiplier
 lightly-qt
 mongodb-bin
