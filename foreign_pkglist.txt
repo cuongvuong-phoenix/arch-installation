@@ -3,11 +3,13 @@ apple-fonts
 asdf-vm
 brave-bin
 figma-linux
+heroku-cli-bin
 ibus-bamboo
 joplin-appimage
 latte-dock-git
 libinput-multiplier
 lightly-qt
+lightlyshaders-git
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
