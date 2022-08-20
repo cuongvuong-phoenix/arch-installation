@@ -16,27 +16,46 @@
 ## Workspace Behaviour:
 
 - **Desktop Effects**:
-  - _Zoom_
-  - _Blur:_
-    - **Blur strength**: _1/2 max_.
-    - **Noise strength**: _0_.
-  - _Desaturate Unresponsive Applications_
-  - _Fading Popups_
-  - _Full Screen_
-  - _Login_
-  - _Logout_
-  - _Maximize_
-  - _Morphling popups_
-  - _Screen Edge_
-  - _Sliding popups_
-  - _\*Transluency_
-  - _Magic Lamp_
-  - _Dialog Parent_
-  - _Dim Screen for Administrator mode_
-  - _Window Aperture_
-  - _Slide_
-  - _Desktop Grid_
-  - _Glide_
+  - **Accessibility**:
+    - _Zoom_
+    - _Snap Helper_
+  - **Appearance**:
+    - _Background constrast_
+    - _Blur:_
+      - **Blur strength**: _1/2 max_.
+      - **Noise strength**: _0_.
+    - _Desaturate Unresponsive Applications_
+    - _Fading Popups_
+    - _Full Screen_
+    - _LightlyShaders_
+      - **Radius**: _6px_.
+      - **Shadow Offset**: _6px_.
+      - _Outline around window_
+      - _Use black border (dark theme mode)_
+      - _Disable for maximized windows_
+    - _Login_
+    - _Logout_
+    - _Maximize_
+    - _Morphling popups_
+    - _Screen Edge_
+    - _Sliding popups_
+    - _\*Transluency_
+    - _Magic Lamp_
+  - **Focus**:
+    - _Dialog Parent_
+    - _Dim Inactive_
+      - **Strength**: _40_
+    - _Dim Screen for Administrator mode_
+  - **Show Desktop Animation**:
+    - _Window Aperture_
+  - **Virtual Desktop Switching Animation**:
+    - _Slide_
+  - **Window Management**:
+    - _Desktop Grid_
+    - _Overview_
+    - _Present Windows_
+  - **Window Open/Close Animation**:
+    - _Scale_
 - **Screen Edge**:
   - _Bottom Left_: _Desktop Grid_
   - _Bottom Right_: _Show Desktop_
@@ -69,23 +88,27 @@
 
 ## Search:
 
+- **File Search**: _Disable_
 - **KRunner**:
   - **Position on screen**: _Center_
   - **Plugins**:
     - _Activities_
     - _Applications_
     - _Calculator_
+    - _Date and Time_
     - _Desktop Sessions_
     - _KWin_
     - _Plasma Desktop Shell_
     - _Power_
+    - _Spell Checker_
     - _Terimnate Applications_
     - _Unit Converter_
+    - _Windows_
 
 ## Notifications:
 
 - **Popup**:
-  - **Choose custom position**: _Top_.
+  - **Choose custom position**: _Bottom_.
   - **Hide after**: _5 seconds_
 
 ## Applications:
@@ -99,5 +122,5 @@
 ## Display and Monitor
 
 - **Compositor**:
-  - **Scale method**: _Accurate_
+  - **Scale method**: _Smooth_
   - **Rendering backend**: _OpenGL 3.1_
