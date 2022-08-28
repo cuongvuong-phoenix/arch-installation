@@ -17,8 +17,8 @@
 
 - **Desktop Effects**:
   - **Accessibility**:
-    - _Zoom_
     - _Snap Helper_
+    - _Zoom_
   - **Appearance**:
     - _Background constrast_
     - _Blur:_
@@ -56,7 +56,8 @@
     - _Present Windows_
   - **Window Open/Close Animation**:
     - _Scale_
-- **Screen Edge**:
+- **Screen Edges**:
+  - _Top Left_: _Present Windows - All Desktops_
   - _Bottom Left_: _Desktop Grid_
   - _Bottom Right_: _Show Desktop_
 - **Virtual Desktop**:
