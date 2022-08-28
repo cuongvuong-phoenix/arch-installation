@@ -3,6 +3,7 @@ apple-fonts
 asdf-vm
 brave-bin
 figma-linux
+ferdium-bin
 heroku-cli-bin
 ibus-bamboo
 joplin-appimage
@@ -18,7 +19,6 @@ pamac-aur
 pnpm-bin
 postman-bin
 qdirstat-bin
-rambox-bin
 slack-desktop
 superproductivity-bin
 syncthingtray
