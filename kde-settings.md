@@ -44,7 +44,7 @@
   - **Focus**:
     - _Dialog Parent_
     - _Dim Inactive_
-      - **Strength**: _40_
+      - **Strength**: _30_
     - _Dim Screen for Administrator mode_
   - **Show Desktop Animation**:
     - _Window Aperture_
