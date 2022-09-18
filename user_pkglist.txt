@@ -29,7 +29,6 @@ cantarell-fonts
 chromium
 clamtk
 clang
-clementine
 cryptsetup
 dbeaver
 device-mapper
@@ -126,6 +125,7 @@ kdeplasma-addons
 kdesdk-thumbnailers
 kdialog
 khotkeys
+kid3-qt
 kimageformats
 kinfocenter
 kinit
@@ -187,6 +187,7 @@ nss-mdns
 ntfs-3g
 ntp
 nvme-cli
+obs-studio
 okular
 onboard
 openconnect
@@ -247,6 +248,7 @@ smartmontools
 sof-firmware
 solid
 sshfs
+strawberry
 sudo
 syncthing
 sysfsutils
