@@ -120,6 +120,11 @@
   - **Email client**: _Brave_
   - **Terminal emulator**: _Alacritty_
 
+## Input Devices
+
+- **Mouse**:
+  - **Acceleration profile**: _Flat_
+
 ## Display and Monitor
 
 - **Compositor**:
