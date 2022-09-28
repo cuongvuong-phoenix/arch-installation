@@ -6,12 +6,12 @@
 - **Application Style**: _Lightly_
   - **GNOME/GTK Application Style**: _Flat Remix GTK_.
 - **Plasma Style**: _Aritim-Dark-Rounded-Blur_
-  - **Color**: _Aritim-Dark_
-  - **Window Decorations**: _Aritim Dark_
-  - **Fonts**: _Roboto_
-  - **Icons**: _Papirus-Dark_
-  - **Cursors**: _Bibata-Modern-Amber_
-  - **Splash Screen**: _1604-Arch-Splash_
+- **Color**: _Aritim-Dark_
+- **Window Decorations**: _Aritim Dark_
+- **Fonts**: _Roboto_
+- **Icons**: _Papirus-Dark_
+- **Cursors**: _Bibata-Modern-Amber_
+- **Splash Screen**: _1604-Arch-Splash_
 
 ## Workspace Behaviour:
 
@@ -85,7 +85,7 @@
 - **Login Screen (SDDM)**: _Chili for Plasma_
 - **Desktop Session**:
   - **Default leave option**: _End current session_
-- **When logging in**: _Restore manually saved session_
+  - **When logging in**: _Restore manually saved session_
 
 ## Search:
 
