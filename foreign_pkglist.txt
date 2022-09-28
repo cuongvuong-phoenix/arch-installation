@@ -18,6 +18,7 @@ nerd-fonts-jetbrains-mono
 pamac-aur
 pnpm-bin
 postman-bin
+python2-bin
 qdirstat-bin
 slack-desktop
 superproductivity-bin
