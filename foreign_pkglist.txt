@@ -2,8 +2,8 @@ anydesk-bin
 apple-fonts
 asdf-vm
 brave-bin
-figma-linux
 ferdium-bin
+figma-linux-bin
 heroku-cli-bin
 ibus-bamboo
 joplin-appimage
