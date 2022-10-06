@@ -6,6 +6,8 @@ ferdium-bin
 figma-linux-bin
 flyctl-bin
 ibus-bamboo
+ipw2100-fw
+ipw2200-fw
 joplin-appimage
 latte-dock-git
 libinput-multiplier

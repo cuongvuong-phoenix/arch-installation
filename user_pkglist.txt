@@ -255,6 +255,7 @@ sysstat
 systemd-sysvcompat
 telegram-desktop
 texinfo
+tigervnc
 tldr
 tmux
 ttf-bitstream-vera
