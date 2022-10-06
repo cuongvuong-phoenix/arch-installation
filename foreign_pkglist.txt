@@ -4,7 +4,7 @@ asdf-vm
 brave-bin
 ferdium-bin
 figma-linux-bin
-heroku-cli-bin
+flyctl-bin
 ibus-bamboo
 joplin-appimage
 latte-dock-git
