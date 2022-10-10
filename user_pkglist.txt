@@ -109,8 +109,6 @@ inetutils
 inkscape
 inxi
 iptables-nft
-ipw2100-fw
-ipw2200-fw
 iwd
 jdk-openjdk
 jfsutils
@@ -246,6 +244,7 @@ sg3_utils
 smartmontools
 sof-firmware
 solid
+sqlfluff
 sshfs
 strawberry
 sudo
