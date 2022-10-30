@@ -109,7 +109,7 @@
 ## Notifications:
 
 - **Popup**:
-  - **Choose custom position**: _Bottom_.
+  - **Choose custom position**: _Top_.
   - **Hide after**: _5 seconds_
 
 ## Applications:
