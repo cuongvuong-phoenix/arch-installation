@@ -12,7 +12,6 @@ joplin-appimage
 latte-dock-git
 libinput-multiplier
 lightly-qt
-lightlyshaders-git
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
