@@ -2,6 +2,7 @@ anydesk-bin
 apple-fonts
 asdf-vm
 brave-bin
+cloudflare-warp-bin
 ferdium-bin
 figma-linux-bin
 flyctl-bin
@@ -12,6 +13,7 @@ joplin-appimage
 latte-dock-git
 libinput-multiplier
 lightly-qt
+microsoft-edge-stable-bin
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
