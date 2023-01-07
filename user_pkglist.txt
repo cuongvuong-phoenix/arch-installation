@@ -24,6 +24,7 @@ bluedevil
 bluez
 bluez-utils
 breeze-gtk
+btop
 btrfs-progs
 cantarell-fonts
 chromium
@@ -304,7 +305,7 @@ xorg-xkill
 xorg-xrandr
 xsettingsd
 xterm
-yad-eos
+yad
 yarn
 yay
 youtube-dl

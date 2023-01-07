@@ -6,6 +6,7 @@ cloudflare-warp-bin
 ferdium-bin
 figma-linux-bin
 flyctl-bin
+grub-tools
 ibus-bamboo
 ipw2100-fw
 ipw2200-fw
@@ -34,3 +35,4 @@ visual-studio-code-bin
 watchman-bin
 xdman
 zoom
+zplug
