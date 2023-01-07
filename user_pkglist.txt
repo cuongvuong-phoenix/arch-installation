@@ -242,6 +242,7 @@ sccache
 sddm-kcm
 sed
 sg3_utils
+sheldon
 smartmontools
 sof-firmware
 solid
