@@ -89,8 +89,6 @@ gparted
 grep
 groff
 grub
-grub-tools
-grub2-theme-endeavouros
 gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
