@@ -17,6 +17,7 @@
 
 - **Desktop Effects**:
   - **Accessibility**:
+    - _Mouse Click Animation_
     - _Snap Helper_
     - _Zoom_
   - **Appearance**:
@@ -37,6 +38,7 @@
     - _Logout_
     - _Maximize_
     - _Morphling popups_
+    - _Mouse Mark_
     - _Screen Edge_
     - _Sliding popups_
     - _\*Transluency_
