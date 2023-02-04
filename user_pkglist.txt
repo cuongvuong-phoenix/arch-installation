@@ -30,6 +30,7 @@ cantarell-fonts
 chromium
 clamtk
 clang
+cpupower
 cryptsetup
 dbeaver
 device-mapper
@@ -185,6 +186,7 @@ ntfs-3g
 ntp
 nvme-cli
 obs-studio
+obsidian
 okular
 onboard
 openconnect
