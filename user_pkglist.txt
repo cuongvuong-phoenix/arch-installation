@@ -108,7 +108,6 @@ ibus
 inetutils
 inkscape
 inxi
-iptables-nft
 iwd
 jdk-openjdk
 jfsutils
