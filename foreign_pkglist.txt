@@ -2,11 +2,11 @@ anydesk-bin
 apple-fonts
 asdf-vm
 brave-bin
+c++utilities
 cloudflare-warp-bin
 ferdium-bin
 figma-linux-bin
 flyctl-bin
-grub2-theme-endeavouros
 ibus-bamboo
 joplin-appimage
 latte-dock-git
@@ -16,12 +16,13 @@ microsoft-edge-stable-bin
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
-nerd-fonts-jetbrains-mono
 pamac-aur
 pnpm-bin
 postman-bin
 python2-bin
 qdirstat-bin
+qtforkawesome
+qtutilities
 slack-desktop
 superproductivity-bin
 syncthingtray
