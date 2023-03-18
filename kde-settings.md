@@ -11,7 +11,7 @@
 - **Fonts**: _Roboto_
 - **Icons**: _Papirus-Dark_
 - **Cursors**: _Bibata-Modern-Amber_
-- **Splash Screen**: _1604-Arch-Splash_
+- **Splash Screen**: _BeautifulTreeAnimation_
 
 ## Workspace Behaviour:
 
@@ -64,6 +64,8 @@
   - _Bottom Right_: _Show Desktop_
 - **Virtual Desktop**:
   - _Row 1_: _4 Desktop_
+- **Recent Files**:
+  - Do not remember
 
 ## Window Management:
 
@@ -86,8 +88,9 @@
 
 - **Login Screen (SDDM)**: _Chili for Plasma_
 - **Desktop Session**:
-  - **Default leave option**: _End current session_
-  - **When logging in**: _Restore manually saved session_
+  - **Logout Screen**: _Show_
+  - **Session Store**:
+    - **On login, launch apps that were open**: _On last logout_
 
 ## Search:
 
@@ -106,7 +109,6 @@
     - _Spell Checker_
     - _Terimnate Applications_
     - _Unit Converter_
-    - _Windows_
 
 ## Notifications:
 
@@ -117,15 +119,20 @@
 ## Applications:
 
 - **Default Applications**:
-  - **Web browser**: _Brave_
+  - **Web browser**: _Microsoft Edge_
   - **File manager**: _Dolphin_
-  - **Email client**: _Brave_
+  - **Email client**: _Microsoft Edge_
   - **Terminal emulator**: _Alacritty_
+  - **Map**: _Google Maps_
+  - **Dialer**: _KDE Connect_
 
 ## Input Devices
 
 - **Mouse**:
   - **Acceleration profile**: _Flat_
+- **Touchpad**:
+  - **Scrolling**:
+    - _Invert scroll direction (Natural scrolling)_
 
 ## Display and Monitor
 
