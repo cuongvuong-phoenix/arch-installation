@@ -90,7 +90,7 @@
 - **Desktop Session**:
   - **Logout Screen**: _Show_
   - **Session Store**:
-    - **On login, launch apps that were open**: _On last logout_
+    - **On login, launch apps that were open**: _When session was manually saved_
 
 ## Search:
 
