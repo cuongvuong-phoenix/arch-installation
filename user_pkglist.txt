@@ -309,4 +309,5 @@ yad
 yarn
 yay
 youtube-dl
+yt-dlp
 zsh
