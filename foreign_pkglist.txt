@@ -16,7 +16,8 @@ microsoft-edge-stable-bin
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
-pamac-aur
+octopi
+onedrivegui
 pnpm-bin
 postman-bin
 python2-bin
@@ -32,5 +33,5 @@ vanta-agent
 ventoy-bin
 visual-studio-code-bin
 watchman-bin
-xdman
+xdman8
 zoom
