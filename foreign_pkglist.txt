@@ -1,6 +1,5 @@
 anydesk-bin
 apple-fonts
-asdf-vm
 brave-bin
 c++utilities
 cloudflare-warp-bin
@@ -24,6 +23,7 @@ python2-bin
 qdirstat-bin
 qtforkawesome
 qtutilities
+rtx
 slack-desktop
 superproductivity-bin
 syncthingtray
