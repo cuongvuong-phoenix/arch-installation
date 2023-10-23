@@ -3,6 +3,7 @@ acpi
 adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
+akm
 alacritty
 alsa-firmware
 alsa-plugins
@@ -115,7 +116,7 @@ kdesdk-thumbnailers
 kdialog
 khotkeys
 kid3-qt
-kimageformats
+kimageformats5
 kinfocenter
 kinit
 kio-fuse
@@ -186,6 +187,7 @@ pacman-contrib
 pavucontrol
 peek
 perl
+perl-rename
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
@@ -194,6 +196,7 @@ plasma-desktop
 plasma-disks
 plasma-nm
 plasma-pa
+pnpm
 poppler-glib
 postgresql
 postgresql-old-upgrade
@@ -228,8 +231,7 @@ sg3_utils
 sheldon
 smartmontools
 sof-firmware
-solid
-sqlfluff
+solid5
 sshfs
 strawberry
 sudo
@@ -237,6 +239,7 @@ syncthing
 sysfsutils
 sysstat
 systemd-sysvcompat
+tailscale
 telegram-desktop
 texinfo
 tigervnc
@@ -291,5 +294,5 @@ xsettingsd
 xterm
 yarn
 yay
-youtube-dl
+yt-dlp
 zsh

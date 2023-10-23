@@ -3,6 +3,7 @@ apple-fonts
 brave-bin
 c++utilities
 cloudflare-warp-bin
+drawio-desktop-bin
 ferdium-bin
 figma-linux-bin
 flyctl-bin
