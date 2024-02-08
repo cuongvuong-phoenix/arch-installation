@@ -1,6 +1,5 @@
 anydesk-bin
 apple-fonts
-brave-bin
 c++utilities
 cloudflare-warp-bin
 drawio-desktop-bin
@@ -13,18 +12,18 @@ latte-dock-git
 libinput-multiplier
 lightly-qt
 microsoft-edge-stable-bin
+mise-bin
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
 octopi
-onedrivegui
-pnpm-bin
+onedrive-abraunegg
 postman-bin
+protonvpn-gui
 python2-bin
 qdirstat-bin
 qtforkawesome
 qtutilities
-rtx
 slack-desktop
 superproductivity-bin
 syncthingtray
@@ -34,5 +33,5 @@ vanta-agent
 ventoy-bin
 visual-studio-code-bin
 watchman-bin
-xdman8
+xdman-beta-bin
 zoom

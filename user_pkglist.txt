@@ -77,6 +77,7 @@ fsarchiver
 gifski
 gimp
 git
+github-cli
 glances
 gnome-keyring
 gnu-netcat
@@ -200,8 +201,8 @@ pnpm
 poppler-glib
 postgresql
 postgresql-old-upgrade
-power-profiles-daemon
 powerdevil
+powertop
 pptpclient
 print-manager
 pv
