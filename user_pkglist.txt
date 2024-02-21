@@ -19,6 +19,7 @@ base-devel
 bash-completion
 bat
 bind
+bitwarden
 bluedevil
 bluez
 bluez-utils
@@ -295,5 +296,7 @@ xsettingsd
 xterm
 yarn
 yay
+yazi
 yt-dlp
+zoxide
 zsh
