@@ -24,6 +24,7 @@ bluedevil
 bluez
 bluez-utils
 breeze-gtk
+broot
 btop
 btrfs-progs
 cantarell-fonts
@@ -106,6 +107,7 @@ iptables-nft
 iwd
 jdk-openjdk
 jfsutils
+jless
 jq
 kate
 kcalc
@@ -228,6 +230,7 @@ rustup
 s-nail
 samba
 sccache
+screenkey
 sddm-kcm
 sg3_utils
 sheldon
