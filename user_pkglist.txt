@@ -50,6 +50,7 @@ downgrade
 dracut
 duf
 e2fsprogs
+earlyoom
 efibootmgr
 efitools
 endeavouros-keyring
@@ -243,6 +244,7 @@ sudo
 syncthing
 sysfsutils
 sysstat
+systembus-notify
 systemd-sysvcompat
 tailscale
 telegram-desktop
