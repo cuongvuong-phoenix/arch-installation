@@ -1,5 +1,7 @@
 # Arch Linux Installation
 
+![screenshot](./screenshot--2024-03-09_13-15.png)
+
 1. Install [**_EndeavourOS_**](https://endeavouros.com/latest-release/):
 
    - Before installing, download [`user_pkglist.txt`](./user_pkglist.txt) and place it in `~/home/liveuser` folder.
