@@ -119,7 +119,6 @@ kdenetwork-filesharing
 kdeplasma-addons
 kdesdk-thumbnailers
 kdialog
-khotkeys
 kid3-qt
 kimageformats5
 kinfocenter
@@ -129,7 +128,6 @@ konsole
 krename
 kruler
 kscreen
-ksysguard
 kwallet-pam
 less
 libdvdcss
@@ -201,6 +199,7 @@ plasma-desktop
 plasma-disks
 plasma-nm
 plasma-pa
+plasma-systemmonitor
 pnpm
 poppler-glib
 postgresql

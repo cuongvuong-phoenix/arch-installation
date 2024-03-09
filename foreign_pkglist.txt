@@ -21,7 +21,7 @@ onedrive-abraunegg
 postman-bin
 protonvpn-gui
 python2-bin
-qdirstat-bin
+qdirstat
 qtforkawesome
 qtutilities
 slack-desktop
