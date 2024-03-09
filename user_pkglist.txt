@@ -28,6 +28,7 @@ broot
 btop
 btrfs-progs
 cantarell-fonts
+cargo-binstall
 chromium
 clamtk
 clang
@@ -106,6 +107,7 @@ inkscape
 inxi
 iptables-nft
 iwd
+jaq
 jdk-openjdk
 jfsutils
 jless
